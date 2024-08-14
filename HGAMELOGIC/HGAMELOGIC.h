@@ -1,0 +1,11 @@
+#pragma once
+#include <HGAMESCENE.h>
+#include <HGAMEACTOR.h>
+#include <HGAMECOM.h>
+#include <HTRANS.h>
+#include <HRENDERER.h>
+#include <HCAM.h>
+#include <HGAMEINPUT.h>
+#include <HGAMETIME.h>
+#include <HSPRITERENDERER.h>
+#include <HFRAMEANI.h>
